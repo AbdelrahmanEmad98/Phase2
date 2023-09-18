@@ -1,0 +1,14 @@
+D:\HeadWay\try2\StudentsTry\bin\Debug\net7.0\StudentsTry.exe
+D:\HeadWay\try2\StudentsTry\bin\Debug\net7.0\StudentsTry.deps.json
+D:\HeadWay\try2\StudentsTry\bin\Debug\net7.0\StudentsTry.runtimeconfig.json
+D:\HeadWay\try2\StudentsTry\bin\Debug\net7.0\StudentsTry.dll
+D:\HeadWay\try2\StudentsTry\bin\Debug\net7.0\StudentsTry.pdb
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.AssemblyInfoInputs.cache
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.AssemblyInfo.cs
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.csproj.CoreCompileInputs.cache
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.dll
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\refint\StudentsTry.dll
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.pdb
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\StudentsTry.genruntimeconfig.cache
+D:\HeadWay\try2\StudentsTry\obj\Debug\net7.0\ref\StudentsTry.dll
